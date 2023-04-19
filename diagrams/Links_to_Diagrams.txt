@@ -1,0 +1,5 @@
+//Sequence Diagram Link
+https://drive.google.com/file/d/1s6aXqY4IgEup4XQ_pDlTNgpv_uaIQnZv/view?usp=sharing
+
+//UML Diagram Link (All UML Diagrams are in this link, just different Tabs)
+https://drive.google.com/file/d/1uwQzU_bF-wEjenTEvifiZX5rmj2OkMuf/view?usp=sharing
